@@ -4,7 +4,7 @@
 </h1>
 
 <h5 align="center">
-<a href='https://arxiv.org/abs/xxxx.xxxxx'><img src='https://img.shields.io/badge/Paper-MetaMem-red?logo=arxiv&logoColor=white'></a>
+<a href='https://arxiv.org/abs/2602.11182'><img src='https://img.shields.io/badge/Paper-MetaMem-red?logo=arxiv&logoColor=white'></a>
 <a href='https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen3--30B--A3B--Instruct-blue'></a>
 <a href='https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Llama3.1--70B--Instruct-blue'></a>
 <a href='https://huggingface.co/Qwen/Qwen3-235B-A22B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen--235B--A22B-blue'></a>
@@ -172,14 +172,15 @@ Our work is built on the following codebases, and we are deeply grateful for the
 
 ## 🥰 Citation
 
-We appreciate your citations if you find our paper related and useful to your research!
+We appreciate your citations if you find our paper relevant and useful to your research!
 
 ```bibtex
 @article{xin2026metamem,
     author = {Xin, Haidong and Li, Xinze and Liu, Zhenghao and Yan, Yukun and Wang, Shuo and Yang, Cheng and Gu, Yu and Yu, Ge and Sun, Maosong},
     journal = {ArXiv preprint},
     title = {MetaMem: Evolving Meta-Memory for Knowledge Utilization through Self-Reflective Symbolic Optimization},
-    volume = {abs/xxxx.xxxxx},
+    url = {https://arxiv.org/abs/2602.11182},
+    volume = {abs/2602.11182},
     year = {2026}
 }
 ```
